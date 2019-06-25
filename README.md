@@ -11,3 +11,4 @@ Repository of resource materials for CSE-411 course in Summer-2019 trimester at 
  <a href="./probability/200-learning.pdf">Parameter Learning</a> (Only MLE), 
  <a href="./probability/220-logistic-regression.pdf">Logistic Regression</a> <br />
 Note: You can skip any topic mentioned above notes which haven't been discussed in the class.   
+* [26/06/2019]: Mid-term questions with solutions of the problem sets have been uploaded. See the exam folder. 
