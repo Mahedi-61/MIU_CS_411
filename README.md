@@ -12,5 +12,5 @@ Repository of resource materials for CSE-411 course in Summer-2019 trimester at 
  <a href="./probability/220-logistic-regression.pdf">Logistic Regression</a> <br />
 Note: You can skip any topic mentioned above notes which haven't been discussed in the class.   
 * [26/06/2019]: Mid-term questions with the solution of the problem set have been uploaded. See the exam folder. 
-* [30/06/2019]: Lab Assignment instructions of this course has been published. see the assignment folder
+* [30/06/2019]: Lab Project instructions of this course has been published. see the assignment folder
 
