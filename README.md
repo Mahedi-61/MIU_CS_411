@@ -13,4 +13,5 @@ Repository of resource materials for CSE-411 course in Summer-2019 trimester at 
 Note: You can skip any topic mentioned above notes which haven't been discussed in the class.   
 * [26/06/2019]: Mid-term questions with the solution of the problem set have been uploaded. See the exam folder. 
 * [30/06/2019]: Lab Project instructions of this course has been published. see the assignment folder
+* [10/07/2019]: Assignment milestone submission date has been deferred. Final date of submission: <b>12/07/2019</b> 11:59 PM
 
