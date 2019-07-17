@@ -14,4 +14,4 @@ Note: You can skip any topic mentioned above notes which haven't been discussed 
 * [26/06/2019]: Mid-term questions with the solution of the problem set have been uploaded. See the exam folder. 
 * [30/06/2019]: Lab Project instructions of this course has been published. see the assignment folder
 * [10/07/2019]: Assignment milestone submission date has been deferred. Final date of submission: <b>12/07/2019</b> 11:59 PM
-
+* [17/07/2019]: Final <a href="./lab_assignment/all_team_list.pdf"> Team list </a> for the contest. Our <a href="https://github.com/Mahedi-61/MIU_CS_411/issues/8"> Leaderboard </a>
