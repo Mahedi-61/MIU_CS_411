@@ -16,3 +16,4 @@ Note: You can skip any topic mentioned above notes which haven't been discussed 
 * [10/07/2019]: Assignment milestone submission date has been deferred. Final date of submission: <b>12/07/2019</b> 11:59 PM
 * [17/07/2019]: Final <a href="./lab_assignment/all_team_list.pdf"> Team list </a> for the contest. Our <a href="https://github.com/Mahedi-61/MIU_CS_411/issues/8"> Leaderboard </a>
 * [18/07/2019]: Mid-term <a href="./exam/mid_mark_distribution.pdf"> mark distribution </a> has been uploaded. <a href="./exam/mid_mark_plot.png"> Mark Distribution </a>plot
+* [18/07/2019]: Baseline code for the project has been uploaded. <a href="./lab_assignment/baseline/instruction.md"> instructions </a> 
