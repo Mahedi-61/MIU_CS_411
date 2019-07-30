@@ -19,3 +19,4 @@ Note: You can skip any topic mentioned above notes which haven't been discussed 
 * [18/07/2019]: Baseline code for the project has been uploaded. <a href="./lab_assignment/baseline/instruction.md"> instructions </a> 
 * [25/07/2019]: First Class Test will be held on <b>29/07/2019</b>. Syllabus: <i>Neural Network</i> (Section 5.4 of the <a href="./Books/data_mining.pdf"> book </a>)
 * [29/07/2019]: First Class Test for male section will be held on <b>31/07/2019</b>. Syllabus: <i>Neural Network</i> (Section 5.4 of the <a href="./Books/data_mining.pdf"> book </a>)
+* [30/07/2019]: Due to unavoidable circumstances there will be no class of this course in 31/07/2019. Class Test for male section will be held on <b>05/08/2019</b>.
