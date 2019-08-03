@@ -21,5 +21,5 @@ Note: You can skip any topic mentioned above notes which haven't been discussed 
 * [29/07/2019]: First Class Test for male section will be held on <b>31/07/2019</b>. Syllabus: <i>Neural Network</i> (Section 5.4 of the <a href="./Books/data_mining.pdf"> book </a>)
 * [30/07/2019]: Due to unavoidable circumstances there will be no class of this course in 31/07/2019. Class Test for male section will be held on <b>05/08/2019</b>.
 * [03/08/2019]: Government training opportunities: <a href="./appendix/bhtpa.pdf">Circular</a>
-* [03/08/2019]: Extra class for male section will be held at 9:00-12:00 am in <b>05/08/2019</b>. Room: 207
+* [03/08/2019]: Extra class for male section will be held at 9:00am-12:00pm in <b>05/08/2019</b>. Room: 207
 
