@@ -22,4 +22,7 @@ Note: You can skip any topic mentioned above notes which haven't been discussed 
 * [30/07/2019]: Due to unavoidable circumstances there will be no class of this course in 31/07/2019. Class Test for male section will be held on <b>05/08/2019</b>.
 * [03/08/2019]: Government training opportunities: <a href="./appendix/bhtpa.pdf">Circular</a>
 * [03/08/2019]: Extra class for male section will be held at 9:00am-12:00pm in <b>05/08/2019</b>. Room: 207
+* [10/08/2019]: Combined class will be held at 9:00am-11:00am in <b>19/08/2019</b>. Room: 207
+* [10/08/2019]: Lab Quiz will be at 11:15am-11:45am in <b>19/08/2019</b>. Syllabus: based on <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques"> lab assignment</a>, and <a href="./notes/quiz_content.pdf">Theory</a>
+
 
