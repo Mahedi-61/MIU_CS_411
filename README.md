@@ -24,5 +24,4 @@ Note: You can skip any topic mentioned above notes which haven't been discussed 
 * [03/08/2019]: Extra class for male section will be held at 9:00am-12:00pm in <b>05/08/2019</b>. Room: 207
 * [10/08/2019]: <b>Combined class</b> will be held at 9:00am-11:00am in <b>19/08/2019</b>. Room: 207
 * [10/08/2019]: Lab Quiz will be at 11:15am-11:45am in <b>19/08/2019</b> (<b>both section combined</b>). Syllabus: based on <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques"> lab assignment</a>, and <a href="./notes/quiz_content.pdf">Theory</a>
-
-
+* [10/08/2019]: <i>Contest Report</i> presentation will be held at class <b>20/08/2019</b> (for Female section) and <b>21/08/2019</b> (for Male section). Report should be submitted <a href="https://www.dropbox.com/request/yOKDholl5dvR75LZso6K"> here </a> atleast 5 hour before the class. 
